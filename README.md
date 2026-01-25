@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=200&section=header&text=I%20am%20BangYounSeoe&desc=Hello%20capsule%20render)
+![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=200&section=header&text=YounSeo's%20GitHub&desc=Hello%20capsule%20render)
 # 안녕하세요, 방윤서입니다.
 
 ## About Me
