@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&height=200&section=header&text=YounSeo's%20GitHub&fontSize=50&color=B97A63&fontColor=FFFFFF)
+![header](https://capsule-render.vercel.app/api?type=venom&height=200&section=header&text=YounSeo's%20GitHub&fontSize=50&color=B97A63&fontColor=FFFFFF&stroke=B97A64&strokeWidth=1)
 
 # 안녕하세요, 방윤서입니다.
 
