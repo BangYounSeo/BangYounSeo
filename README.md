@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&height=200&section=header&text=YounSeo's%20GitHub&fontSize=50&color=B97A63&fontColor=FFF&stroke=B97A64&strokeWidth=1)
+![header](https://capsule-render.vercel.app/api?type=venom&height=200&section=header&text=YunSeo's%20GitHub&fontSize=50&color=B97A63&fontColor=FFF&stroke=B97A64&strokeWidth=1)
 
 ## - Tech Stack -
 
