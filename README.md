@@ -66,7 +66,7 @@
 
 <td valign="top">
   
-<strong style="font-size:18px;">Design & Business</strong><br>
+<strong style="font-size:18px;">Design</strong><br>
 
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
