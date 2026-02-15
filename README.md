@@ -1,11 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&height=200&section=header&text=YounSeo's%20GitHub&fontSize=50&color=B97A63&fontColor=FFF&stroke=B97A64&strokeWidth=1)
 
-## - Tech Stack
+## - Tech Stack -
 
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
-
+  
 <strong style="font-size:18px;">Backend</strong><br>
 
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
@@ -17,7 +17,7 @@
 </td>
 
 <td width="50%" valign="top">
-
+  
 <strong style="font-size:18px;">Frontend</strong><br>
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -28,7 +28,17 @@
 
 <tr>
 <td valign="top">
+  
+<strong style="font-size:18px;">Database</strong><br>
 
+![OracleDB](https://img.shields.io/badge/OracleDB-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+
+</td>
+  
+<td valign="top">
+  
 <strong style="font-size:18px;">AI / Data</strong><br>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -39,21 +49,11 @@
 ![OpenAI API](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
 
 </td>
-
-<td valign="top">
-
-<strong style="font-size:18px;">Database</strong><br>
-
-![OracleDB](https://img.shields.io/badge/OracleDB-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-
-</td>
 </tr>
 
 <tr>
 <td valign="top">
-
+  
 <strong style="font-size:18px;">DevOps & Collaboration</strong><br>
 
 ![Amazon S3](https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
@@ -65,7 +65,7 @@
 </td>
 
 <td valign="top">
-
+  
 <strong style="font-size:18px;">Design & Business</strong><br>
 
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
@@ -78,7 +78,8 @@
 <br/>
 
 
-## - About Me
+
+## - About Me -
 - 웹/백엔드 개발을 배우고 있습니다.
 - 프로젝트를 통해 기능 구현과 구조 설계 경험을 쌓고 있습니다.
 
