@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&height=200&section=header&text=YunSeo's%20GitHub&fontSize=50&color=B97A63&fontColor=FFF&stroke=B97A64&strokeWidth=1)
 
-## - Tech Stack -
+## Tech Stack
 
 <table width="100%">
 <tr>
@@ -77,26 +77,23 @@
 
 <br/>
 
+## About Me
+- Spring Boot·React 기반 AI 웹 서비스 아키텍처 설계 및 구현
+- FastAPI 연동 및 LLM 기반 API 서버 구축
+- 규칙 기반 챗봇 구조 설계 및 프롬프트 제어 패턴 적용
+- LSTM 기반 시계열 모델링 및 지표 분석
+- Amazon S3 이미지 업로드 연동 및 CloudType 배포 경험
+- Git·Jira·Slack·Notion 기반 협업 및 이슈 관리
 
-
-## - About Me -
-- 웹/백엔드 개발을 배우고 있습니다.
-- 프로젝트를 통해 기능 구현과 구조 설계 경험을 쌓고 있습니다.
-
-
+<br/>
 
 ## Projects
-- BaroFarm  
-  👉 https://github.com/BangYounSeo/barofarm
+- Home'Scan : 
+- BaroFarm : https://github.com/BangYounSeo/barofarm
+- NovaTrip : https://github.com/BangYounSeo/novatrip
+- NovaFund : https://github.com/BangYounSeo/novafund
 
-- NovaTrip  
-  👉 https://github.com/BangYounSeo/novatrip
-
-- NovaFund  
-  👉 https://github.com/BangYounSeo/novafund
+<br/>
 
 ## Portfolio
-👉 https://bangyounseo.github.io
-
-## Contact
-- Email: ysosob@naver.com
+https://bangyounseo.github.io
