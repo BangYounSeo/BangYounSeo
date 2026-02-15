@@ -85,12 +85,12 @@
 <br/>
 
 ## Core Competencies
-- Spring Boot·React 기반 AI 웹 서비스 아키텍처 설계 및 구현
+- Spring Boot · React 기반 AI 웹 서비스 아키텍처 설계 및 구현
 - FastAPI 연동 및 LLM 기반 API 서버 구축
 - 규칙 기반 챗봇 구조 설계 및 프롬프트 제어 패턴 적용
 - LSTM 기반 시계열 모델링 및 지표 분석
 - Amazon S3 이미지 업로드 연동 및 CloudType 배포 경험
-- Git·Jira·Slack·Notion 기반 협업 및 이슈 관리
+- Git · Jira · Slack · Notion 기반 협업 및 이슈 관리
 
 <br/>
 
