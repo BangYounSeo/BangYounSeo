@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&height=200&section=header&text=YounSeo's%20GitHub&fontSize=50&color=B97A63&fontColor=FFF&stroke=B97A64&strokeWidth=1)
 
-## [ Tech Stack ]
+## Tech Stack
 
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Framework](https://img.shields.io/badge/Spring_Framework-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
