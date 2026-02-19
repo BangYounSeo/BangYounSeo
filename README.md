@@ -95,7 +95,7 @@
 <br/>
 
 ## Projects
-- Home'Scan : 
+- Home'Scan : https://github.com/BangYounSeo/AI_HomeMatch
 - BaroFarm : https://github.com/BangYounSeo/barofarm
 - NovaTrip : https://github.com/BangYounSeo/novatrip
 - NovaFund : https://github.com/BangYounSeo/novafund
