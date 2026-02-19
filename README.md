@@ -102,4 +102,5 @@
 <br/>
 
 ## Portfolio
-https://bangyounseo.github.io / https://www.notion.so/2f3140fc31d380879754f277cad257a8?source=copy_link
+- https://bangyounseo.github.io
+- https://www.notion.so/2f3140fc31d380879754f277cad257a8?source=copy_link
